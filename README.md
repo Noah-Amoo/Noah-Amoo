@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah Amoo</h1>
 <h3 align="center">A developing full stack developer and data engineer</h3>
 
-- 🌱 I’m currently learning **Data Science with Python, C#. Net, JavaScript, HTML & CSS**
+- 🌱 **C#. Net, NextJs, JavaScript/TypeScript, Tailwind CSS, Web API's, MS SQL Server**
 
 - 📫 How to reach me **yawnoah3n@yahoo.com**
 
